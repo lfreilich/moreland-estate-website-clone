@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "type": "header",
+    "content": "Moreland Estate Management logo; Home, About, Services (Block Management, Services Charges, Maintenance & Insurance, Company Secretary), Downloads, Report an issue, Contact, LOGIN."
+  },
+  {
+    "index": 1,
+    "type": "hero",
+    "content": "Managing Blocks & Estates of Residential Flats; Moreland estate management.",
+    "assets": ["hero-building.png", "globe.png"]
+  },
+  {
+    "index": 2,
+    "type": "value-points",
+    "heading": ["Why", "Choose Us"],
+    "items": ["Transparency", "Comprehensive", "Professional", "No hidden costs"]
+  },
+  {
+    "index": 3,
+    "type": "about",
+    "heading": ["Moreland", "Estate Mangement"],
+    "body": "Moreland Estate Management is a privately owned residential property management company. With many years experience together with a depth of knowledge and wealth of expertise, we believe that we are the specialists in our field of property management.",
+    "assets": ["london-aerial.jpg", "about-decoration.png"]
+  },
+  {
+    "index": 4,
+    "type": "services",
+    "heading": ["Our", "Services"],
+    "items": [
+      {
+        "heading": "OUR SERVICES",
+        "body": "We offer landlords and management companies a comprehensive list of property management services and provide bespoke advice on a wide spectrum of matters. Additionally, we provide tenants with an effortless and reliable service and all our properties and blocks are managed in the most efficient and effective manner at a reasonable and realistic service charge.",
+        "image": "service-main.jpg"
+      },
+      {
+        "heading": "FREEHOLD MANAGEMENT",
+        "body": "We focus on all aspects of freehold management from collecting ground rents to day to day reactive buildings maintenance as well as insuring properties to ensure we add value to the properties and deliver creative property solutions. We also work together with clients advising on the sale of their investments including introducing potential buyers and potential funders.",
+        "image": "victorian-houses.jpg"
+      },
+      {
+        "heading": "ANCILLARY SERVICES",
+        "body": "Other ancillary services include advising residential and commercial developers in respect of lease design and value maximisation for both landlord and tenant.",
+        "image": "luxury-apartments.jpg"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "type": "contact-callout",
+    "heading": "Get in touch today!"
+  },
+  {
+    "index": 6,
+    "type": "footer",
+    "items": [
+      {
+        "heading": "LONDON OFFICE",
+        "address": ["5 Sentinel Square", "Hendon, London, NW4 2EL"],
+        "email": "mail@morelandestate.co.uk",
+        "phone": "020 7043 4260"
+      },
+      {
+        "heading": "HOUNSLOW OFFICE",
+        "address": ["First Floor", "York House,", "Montague Road, Hounslow,", "Middlesex TW3 1JZ"],
+        "email": "mail@morelandestate.co.uk",
+        "phone": "020 7043 4260"
+      }
+    ],
+    "accreditation": "ACCREDITATION",
+    "image": "accreditation.jpg",
+    "copyright": "Copyright 2022, Techdesign. All Rights Reserved."
+  }
+]
